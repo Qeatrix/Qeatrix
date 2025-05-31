@@ -1,57 +1,17 @@
+<div align="center" width="200px">
+  
+### *`Quartix`*
+#### *Borrow-checked mind*
 
-<div align="center">
+<ins>My thoughts are under strict control:</ins> <br> Every idea is borrowed and returned with precision, eliminating<br> dangling pointers and memory leaks in my mental model.<br><br>
 
-<img src="https://raw.githubusercontent.com/Qeatrix/Qeatrix/main/HelloWorld.png" align="center" style="width: 100%" />
-<br><br>
+Like a fine-tuned Unix system, the mind runs at minimal cost, running<br> ideas through the filters of logic and reason while background<br> daemons sort out the routine.<br><br>
 
-# Info
+My repositories are a collection of scripts and tools, each a cog in the<br> mechanism, keeping random thoughts from dissolving into void.<br><br>
+  
+Telegram: `@Quartix` — if you can get through the event horizon of my ignores.<br><br>
+I inhabit a black hole singularity where time stretches endlessly in paradoxical<br> generosity, but my deadlines still drown in the abyss of procrastination.
 
-</div>
+My code is like a set of Unix utilities: each does one thing and does it well.<br> Well, or doesn't do it - that's what debugging is for.
 
-### Browsers
-
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
-
-### IDE
-
-![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-### Languages
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-### Utilities
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Operating Systems
-
-![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-<br><br>
-
-<div align="center">
-
-# Stats
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Qeatrix&repo=SonataLauncher&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299">
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Qeatrix&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299">
-<br>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Qeatrix&theme=vue">
 </div>
